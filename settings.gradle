@@ -1,0 +1,3 @@
+rootProject.name='AnimationInterpolator'
+include ':app'
+include ':animation-interpolator'
